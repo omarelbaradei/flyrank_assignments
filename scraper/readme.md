@@ -10,9 +10,9 @@
 
 ### Why this site?
 
- Books to Scrape is a sandbox website specifically designed for practicing web scraping. The website states that it is intended for people who want to practice scraping.
+ ####Books to Scrape is a sandbox website specifically designed for practicing web scraping. The website states that it is intended for people who want to practice scraping.
 
-Because the website is provided as a scraping sandbox, it is an appropriate target for this internship exercise.
+####Because the website is provided as a scraping sandbox, it is an appropriate target for this internship exercise.
 ### Scope
 
 #### The scraper will collect data from only the first 3 catalogue pages.
