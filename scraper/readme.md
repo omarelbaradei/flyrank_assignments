@@ -35,11 +35,11 @@ Because the website is provided as a scraping sandbox, it is an appropriate targ
 
 ### Why this collection is appropriate
 
-####The data being collected is publicly displayed book catalogue information, and the target website is explicitly provided as a sandbox for practicing web scraping.
+#### The data being collected is publicly displayed book catalogue information, and the target website is explicitly provided as a sandbox for practicing web scraping.
 
-####The collection is also limited to the first three catalogue pages rather than attempting to scrape the entire website.
+#### The collection is also limited to the first three catalogue pages rather than attempting to scrape the entire website.
 
 ## Rule for future scraping
 
-####I will not reuse this code on another site without checking its rules
+#### I will not reuse this code on another site without checking its rules
 and terms first.
