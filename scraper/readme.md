@@ -6,7 +6,7 @@
 
 #### The target website for this project is Books to Scrape:
 
-#### (https://books.toscrape.com/)
+#### https://books.toscrape.com/
 
 ### Why this site?
 
@@ -31,7 +31,7 @@ Because the website is provided as a scraping sandbox, it is an appropriate targ
 
 #### Result:
   #### 404 Not Found
-    ##### note: there could be other website with a robots messages and rules
+      note: there could be other website with a robots messages and rules
 
 ### Why this collection is appropriate
 
